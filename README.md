@@ -1,7 +1,7 @@
-I’m Alejandra G.Cabanillas a PhD student at @StrathMathStat  modelling Scottish #Kelp forest dynamics. Funded through @SUPERDTP1. Currently hosted for an exchange at @IHCantabria
+PhD in Mathematics and Statistics. Experinede in population dynamics, IBMs, dynamic energy budget theory, evolutionary game theory, coastal ecosystems and new to random forest models.
 
-📫 How to reach me: twitter  @AlexGCabanillas or a.g.cabanillas@strath.ac.uk
-
+Previously worked at Swansea University and Univeristy of Strathclyde. Currently at Instituto de Hidraulica Ambiental Caantabria in Ecosistemas Litorales (IH Cantabria ECOLIT)
+Contact me at garcaba@unican.es
 <!---
 agcabanillas/agcabanillas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
