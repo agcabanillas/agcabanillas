@@ -1,4 +1,4 @@
-PhD in Mathematics and Statistics. Experinede in population dynamics, IBMs, dynamic energy budget theory, evolutionary game theory, coastal ecosystems and new to random forest models.
+PhD in Mathematics and Statistics. Experience in population dynamics, IBMs, dynamic energy budget theory, evolutionary game theory, coastal ecosystems and new to random forest models.
 
 Previously worked at Swansea University and Univeristy of Strathclyde. Currently at Instituto de Hidraulica Ambiental Cantabria in Ecosistemas Litorales (IH Cantabria ECOLIT)
 Contact me at garcaba@unican.es
